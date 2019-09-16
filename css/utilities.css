@@ -1,0 +1,38 @@
+.active {
+  color: #00c88f;
+  font-family: "Roboto Medium"
+}
+
+.v-align {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-family: "Roboto Regular";
+}
+
+.text-primary {
+  color: #00c88f;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-light {
+  font-family: "Roboto Light", sans-serif;
+}
+.font-regular {
+  font-family: "Roboto Regular", sans-serif;
+}
+.font-medium {
+  font-family: "Roboto Medium", sans-serif;
+}
+
+.text-white {
+  color: #fff;
+  letter-spacing: 1px;
+  line-break: 18px;
+} 
